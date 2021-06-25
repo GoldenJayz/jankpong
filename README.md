@@ -8,3 +8,6 @@ The game is just a normal half assed pong game that is fun due to it's jank bugs
 There is none cause they're all <em>mechanics!</em>
 All these <em>mechanics</em> were totally intentional.
 I am too lazy to fix these <em>mechanics</em>
+
+# Images
+![menu](menu.png)
