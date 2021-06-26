@@ -10,4 +10,4 @@ All these <em>mechanics</em> were totally intentional.
 I am too lazy to fix these <em>mechanics</em>
 
 # Images
-![menu](menu.png)
+![menu](menu.PNG)
