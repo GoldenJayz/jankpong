@@ -11,3 +11,4 @@ I am too lazy to fix these <em>mechanics</em>
 
 # Images
 ![menu](menu.PNG)
+![game](game.PNG)
