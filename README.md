@@ -5,7 +5,7 @@ Jank pong is a game I scripted using Unity and C#
 The game is just a normal half assed pong game that is fun due to it's jank bugs that I like to call mechanics.
 
 ## WARNING! ⚠️
-THIS GAME WILL LEGIT GIVE YOU FUCKING CANCER
+THIS GAME WILL LEGIT GIVE YOU CANCER
 
 ## Glitches
 There is none cause they're all <em>mechanics!</em>
